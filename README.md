@@ -1,13 +1,11 @@
-# 👋 Hello! I'm Sebastian
+## Hello 👋
 
-## 💻 I work with
+**My name is sebastian**
 
-- ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) **C++**
+*I work with*
 
----
+> C
 
-🔗 **Connection!**  
-[![GitHub](https://img.shields.io/github/followers/sebastian075?style=social)](https://github.com/sebastian075)  
+> C++
 
-*Want to contact me ?*
 > sebastian.075 on discord
