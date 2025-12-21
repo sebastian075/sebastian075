@@ -2,8 +2,7 @@
 
 ## 💻 I work with
 
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) **C**
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++**
+- ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) **C++**
 
 ---
 
