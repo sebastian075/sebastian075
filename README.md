@@ -8,4 +8,4 @@
 
 > C++
 
-> sebastian.075 on discord
+> mmcopymemory on discord
